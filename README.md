@@ -5,7 +5,7 @@
 
 Run react native apps in your browser!
 
-[Try it out! at https://sivarajng.github.io/react-native-playground/](https://sivarajng.github.io/react-native-playground/`)
+[Try it out! at https://sivarajng.github.io/react-native-playground/](https://sivarajng.github.io/react-native-playground/)
 
 ### About
 
