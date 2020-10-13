@@ -1,8 +1,11 @@
-# React Native Web Player
+# React Native Playground (Web Player)
+
+#### DUCG - Dev Under Coding Ground
+#
 
 Run react native apps in your browser!
 
-[Try it out!](https://unpkg.com/react-native-web-player@2.0.0-alpha.19/public/index.html#title=React%20Native%20Web%20Player)
+[Try it out! at https://sivarajng.github.io/react-native-playground/](https://sivarajng.github.io/react-native-playground/`)
 
 ### About
 
